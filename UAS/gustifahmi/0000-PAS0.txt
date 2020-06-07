@@ -1,0 +1,18 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+    Cukup lama, karena sejak awal saya belum memahami gnupg. Waktu yang
+    dibutuhkan sekitar 5 jam di luar waktu istirahat, makan, dan lain-lain
+2) Apakah anda GSGS?
+    Ya, karena pemahaman saya mengenai gnupg sangat kurang, saya membutuhkan
+    Google untuk mencari tahu caranya, bahkan cara dari awal yaitu generate
+    new key, lalu export public key untuk file 0000-mypub.txt, sedangkan
+    untuk dua output lainnya, saya mengikuti cara yang ada di forum Scele
+3) Apakah anda tanya-sana/tanya-sini?
+    Karena saya  angkatan 2017 dan sebagian besar peserta OS 201 adalah
+    angkatan 2016, saya cukup kesulitan mencari orang yang bisa saya tanya.
+    Ada beberapa peserta dari angkatan 2017, namun kurang dekat dengan saya.
+    Sehingga saya hanya mencari caranya lewat Google.
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan
+    Semua yang saya lakukan betul-betul baru, hehe. Awalnya saya sama sekali
+    tidak mengerti, namun sekarang saya sudah mulai sedikit mengerti,
+    terutama yang saya lakukan pada PAS0 kali ini.
+
