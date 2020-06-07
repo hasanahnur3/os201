@@ -1,0 +1,16 @@
+Hal-hal yang ingin diketahui (namun tidak terbatas pada):
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+>>> Untuk memahami dokumen ini, saya memerlukan waktu kira kira 30-45 menit.
+
+2) Apakah anda GSGS?
+>>> Ya, saya melakukan Google Sana Google Sini karena ada beberapa hal yang saya lupa.
+
+3) Apakah anda tanya-sana/tanya-sini?
+>>> Iya, saya bertanya kepada teman-teman saya dalam mengerjakan dokumen ini terutama 
+    seperti bagaimana script, apakah badak memiliki git, dan pertanyaan lainnya.
+
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan 
+   sebelumnya.
+>>> Sejauh ini, hal-hal yang digunakan pada PAS0 sudah pernah saya kerjakan/pelajari
+    , namun ada beberapa yang perlu saya pelajari lebih dalam seperti secret key pada 
+    gpg, dan sebagainya. 
