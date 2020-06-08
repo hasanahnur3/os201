@@ -8,7 +8,7 @@ adhytianara   HADIR
 adinugroho80000   BELUM
 aditmuhmd   BELUM
 adrielananta   BELUM
-adzshaf   BELUM
+adzshaf   HADIR
 agit-ui   BELUM
 ahmadirfaan1   BELUM
 ajiinisti   BELUM
@@ -73,7 +73,7 @@ iqrar99   BELUM
 irfanmaulananasution   BELUM
 jacobstmrg   BELUM
 JahnsMichael   BELUM
-jonathanfilbert   HADIR
+jonathanfilbert   BELUM
 JustOneMoreLine   HADIR
 kamilakaffah07   BELUM
 keziasulami   BELUM
@@ -91,7 +91,7 @@ lubnasyifa9   BELUM
 luqman-maulana   BELUM
 luthfiidrus   BELUM
 maisyrahmawati   BELUM 
-marcelvaldhano   HADIR
+marcelvaldhano   BELUM
 michaelsusanto81   BELUM
 Miner239   BELUM
 mlhmg   BELUM
@@ -119,15 +119,15 @@ qadzifi   BELUM
 racendol   BELUM
 rafaputri86   BELUM 
 RafifEL   BELUM
-ramyazhar   BELUM
-raniapriliaa   HADIR
+ramyazhar   HADIR
+raniapriliaa   BELUM
 raularrafi   BELUM
 Raygue   BELUM
 rekapaska   BELUM
 reynardryanda   BELUM
 ronaldi-tj   BELUM
 roygodsend23   BELUM
-rukamudrik   BELUM
+rukamudrik   HADIR
 ryaasabsar   BELUM
 Salman-Ahmad-N   BELUM
 salsabiladnan   BELUM
@@ -142,7 +142,7 @@ SulthanZahran   BELUM
 syannelimarwan   BELUM
 taritrinatha   BELUM
 tasyashbr   BELUM
-tesajps   BELUM
+tesajps   HADIR
 ThatDecoff   BELUM
 thegalang   BELUM
 titusdirgantoro   BELUM
