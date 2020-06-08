@@ -1,0 +1,8 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+Untuk memahami dokumen ini saya membutuhkan waktu kira-kira tiga jam. Saya bingung dengan alurnya, sehingga saya juga bertanya dengan teman
+2) Apakah anda GSGS?
+Ya, saya melakukan GSGS, sebagai contoh untuk meremove beberapa file yang salah 
+3) Apakah anda tanya-sana/tanya-sini?
+Ya, saya melakukan tanya-sana/tanya-sini untuk memastikan pemahaman saya mengenai script, terutama ketika gsgs dirasa tidak cukup
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan 
+Hal yang pertama kali saya lakukan adalah membuat key dengan badak, karena sebelumnya pakai key generator
