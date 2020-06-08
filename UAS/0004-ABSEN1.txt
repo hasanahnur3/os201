@@ -7,7 +7,7 @@ aceyoga   BELUM
 adhytianara   HADIR
 adinugroho80000   BELUM
 aditmuhmd   BELUM
-adrielananta   HADIR
+adrielananta   BELUM
 adzshaf   HADIR
 agit-ui   BELUM
 ahmadirfaan1   BELUM
@@ -35,7 +35,7 @@ Belaady   HADIR
 billhsyn   BELUM
 bonarws   BELUM
 chelmel18   BELUM
-ChristopherSamuelW   BELUM
+ChristopherSamuelW   HADIR
 codefire53   BELUM
 dafpool4   BELUM
 dariantexanditama   BELUM
@@ -53,7 +53,7 @@ fpradana   BELUM
 GibranBrahmanta   BELUM
 gibranharahap   BELUM
 glendaesutanto   BELUM
-Gusni-Lusiana   BELUM
+Gusni-Lusiana   HADIR
 gustifahmi   BELUM
 habelct   BELUM
 hanardiansyah   BELUM
@@ -113,9 +113,9 @@ nugrahaa878   BELUM
 NununHidayah   BELUM
 nurulputri   BELUM
 nvanonim   BELUM
-PakDengklek   HADIR
+PakDengklek   BELUM
 phazeblaze   BELUM
-qadzifi   BELUM
+qadzifi   HADIR
 racendol   BELUM
 rafaputri86   BELUM 
 RafifEL   BELUM
