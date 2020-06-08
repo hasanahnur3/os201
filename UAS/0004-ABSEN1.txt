@@ -44,7 +44,7 @@ drassd   HADIR
 eaglescommander   BELUM
 egiffari   BELUM
 enbeqi   HADIR
-fadhilhmr   BELUM
+fadhilhmr   HADIR
 fadhilibra   HADIR
 FarizioKautsar   HADIR
 fatih-alaydrus   HADIR
