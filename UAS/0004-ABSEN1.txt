@@ -116,7 +116,7 @@ nvanonim   HADIR
 PakDengklek   HADIR
 phazeblaze   BELUM
 qadzifi   HADIR
-racendol   BELUM
+racendol   HADIR
 rafaputri86   HADIR
 RafifEL   BELUM
 ramyazhar   HADIR
