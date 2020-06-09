@@ -28,7 +28,7 @@ def generate_sha1(command):
     sha_1 = hashlib.sha1(command.encode())
     return sha_1.hexdigest()
 
-def check_file(content, filename, owner):
+def check_file(content, owner):
 	seq_flag = ""
 	sum_flag = ""
 	username = content[3]
@@ -77,7 +77,7 @@ def main():
 	file = input("Masukan nama file yang ingin di cek: ")
 	owner = input("Masukan username akun github anda: ")
 	content = read_file(file)
-	result = check_file(content, file, owner)
+	result = check_file(content, owner)
 	print(result)
 
 if __name__ == '__main__':
