@@ -1,0 +1,93 @@
+#!/bin/bash
+
+# To run, do the command below
+# bash tes [your github acc] [friend1 github acc] [friend2 github acc]
+#
+
+SAYA=$1;
+SEBELA1=$2;
+SEBELA2=$3;
+
+DATE_WITH_TIME=`date "+%y%m%d-%H%M%S"`
+CEKSAYA="$SAYA ZCZCSCRIPTSTART $DATE_WITH_TIME $SAYA";
+CEKSEBELA1="$SAYA ZCZCSCRIPTSTART $DATE_WITH_TIME $SEBELA1";
+CEKSEBELA2="$SAYA ZCZCSCRIPTSTART $DATE_WITH_TIME $SEBELA2";
+
+for i in $SAYA $SEBELA1 $SEBELA2
+do
+	git clone https://github.com/$i/os201.git
+	sleep 10
+	mv os201 $i
+	TEMP=$(grep "^20" $i/UAS/0001-mytest.txt | cut -c -19);
+
+	start=$(grep "^Script started" $i/UAS/0001-mytest.txt | cut -c 19-42)
+	start=$(date -d "$start" +%y%m%d%H%M%S)
+
+	for j in $TEMP;
+	do
+		if [[ "$i" == "samuelsamosir27" ]];
+		then
+		LAS="-UAS";
+		else
+		LAS=$(grep "^20" $i/UAS/0001-mytest.txt | cut -c19- | cut -d'/' -f 1 | head -n 1);
+		fi
+		
+		DICEK="$(echo $j | cut -c -14)";
+		KODE="$(echo $j | cut -c15-18)";
+		CEK="$DICEK$i$LAS";
+		HASIL="$(echo $CEK | sha1sum | cut -c -4)";
+		DICEK2="$(echo $DICEK | cut -c -13)"
+
+		HASILLAPAN="$(echo $CEK | sha1sum | cut -c -8)"; 
+
+		if [[ "$KODE" == "$HASIL" ]];
+		then
+		RESSUM=SUMOK
+		else
+		RESSUM=SUMNO
+		fi
+		
+
+
+		DICEK3=$(echo $DICEK | sed 's/-//g')
+		if [[ $DICEK3 -ge $start ]];
+		then
+		RESSEQ="SEQOK"
+		start=$DICEK3
+		else
+		RESSEQ="SEQNO"
+		fi
+
+
+		if [[ "$i" == "$SAYA" ]];
+		then
+		CEKSAYA="${CEKSAYA}\n$SAYA ${SAYA} $DICEK$KODE$LAS/ $DICEK2 $RESSEQ $RESSUM $HASILLAPAN"
+		elif [[ "$i" == "$SEBELA1" ]];
+		then
+		CEKSEBELA1="${CEKSEBELA1}\n$SAYA ${SEBELA1} $DICEK$KODE$LAS/ $DICEK2 $RESSEQ $RESSUM $HASILLAPAN"
+		else [[ "$i" == "$SEBELA2" ]];
+		CEKSEBELA2="${CEKSEBELA2}\n$SAYA ${SEBELA2} $DICEK$KODE$LAS/ $DICEK2 $RESSEQ $RESSUM $HASILLAPAN"
+		fi
+	done
+	
+	end=$(grep "^Script done" $i/UAS/0001-mytest.txt | cut -c 16-43)
+	end=$(date -d "$end" +%y%m%d%H%M%S)
+
+	if [[ $end -ge $start ]];
+	then
+	RESSEQ="SEQOK"
+	else
+	RESSEQ="SEQNO"
+	fi
+
+done
+
+DATE_WITH_TIME=$(date "+%y%m%d-%H%M%S")
+CEKSAYA="${CEKSAYA}\n$SAYA ZCZCSCRIPTSTOP $DATE_WITH_TIME $RESSEQ\n"
+CEKSEBELA1="${CEKSEBELA1}\n$SAYA ZCZCSCRIPTSTOP $DATE_WITH_TIME $RESSEQ\n"
+CEKSEBELA2="${CEKSEBELA2}\n$SAYA ZCZCSCRIPTSTOP $DATE_WITH_TIME $RESSEQ\n"
+FINAL="$CEKSAYA\n$CEKSEBELA1\n$CEKSEBELA2"
+
+echo -e "$FINAL" > 0004-TUGAS-PAS1.txt
+
+
