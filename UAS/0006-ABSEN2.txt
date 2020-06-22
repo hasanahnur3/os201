@@ -35,7 +35,7 @@ chelmel18 BELUM
 codefire53 HADIR
 dafpool4 HADIR
 dariantexanditama BELUM
-darklordace HADIR
+darklordace BELUM
 drassd BELUM
 eaglescommander BELUM
 egiffari BELUM
@@ -110,7 +110,7 @@ raularrafi BELUM
 Raygue BELUM
 rekapaska BELUM
 reynardryanda BELUM
-ronaldi-tj BELUM
+ronaldi-tj HADIR
 roygodsend23 BELUM
 rukamudrik BELUM
 ryaasabsar HADIR
