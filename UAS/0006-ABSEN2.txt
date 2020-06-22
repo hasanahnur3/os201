@@ -35,7 +35,7 @@ chelmel18 BELUM
 codefire53 HADIR
 dafpool4 HADIR
 dariantexanditama BELUM
-darklordace BELUM
+darklordace HADIR
 drassd BELUM
 eaglescommander BELUM
 egiffari BELUM
@@ -63,7 +63,7 @@ hnsmchl BELUM
 IgoRamli BELUM
 ihsanazizi14 BELUM
 imamsetyo96 BELUM
-iqrar99 HADIR
+iqrar99 BELUM
 irfanmaulananasution BELUM
 jacobstmrg BELUM
 JahnsMichael BELUM
@@ -80,7 +80,7 @@ luqman-maulana BELUM
 luthfiidrus BELUM
 maisyrahmawati BELUM
 marcelvaldhano BELUM
-michaelsusanto81 HADIR
+michaelsusanto81 BELUM
 mlhmg BELUM
 MNatalnael BELUM
 mon23c HADIR
@@ -110,7 +110,7 @@ raularrafi BELUM
 Raygue BELUM
 rekapaska BELUM
 reynardryanda BELUM
-ronaldi-tj HADIR
+ronaldi-tj BELUM
 roygodsend23 BELUM
 rukamudrik BELUM
 ryaasabsar HADIR
@@ -123,7 +123,7 @@ ShintaFauziah BELUM
 skycruiser8 HADIR
 stefansagala BELUM
 stephenhandiar HADIR
-SulthanZahran HADIR
+SulthanZahranHADIR
 syannelimarwan HADIR
 taritrinatha BELUM
 tasyashbr HADIR
