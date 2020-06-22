@@ -16,7 +16,7 @@ alfisyk HADIR
 alkwrzm HADIR
 AlphaRazra HADIR
 alviadibby HADIR
-amaliahanisa BELUM
+amaliahanisa HADIR
 amrisandha HADIR
 AndiALH HADIR
 andrewtheodore HADIR
@@ -48,7 +48,7 @@ fpradana BELUM
 GibranBrahmanta HADIR
 gibranharahap HADIR
 glendaesutanto HADIR
-Gusni-Lusiana BELUM
+Gusni-Lusiana HADIR
 gustifahmi BELUM
 habelct BELUM
 hanardiansyah HADIR
@@ -62,7 +62,7 @@ HelmiAlf BELUM
 hnsmchl HADIR
 IgoRamli HADIR
 ihsanazizi14 HADIR
-imamsetyo96 BELUM
+imamsetyo96 HADIR
 iqrar99 HADIR
 irfanmaulananasution BELUM
 jacobstmrg BELUM
@@ -97,7 +97,7 @@ nota1706 HADIR
 noviarmdnfg HADIR
 nugrahaa878 BELUM
 NununHidayah BELUM
-nurulputri BELUM
+nurulputri HADIR
 nvanonim BELUM
 PakDengklek HADIR
 phazeblaze HADIR
