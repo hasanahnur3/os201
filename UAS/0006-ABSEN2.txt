@@ -130,7 +130,7 @@ tasyashbr HADIR
 tesajps BELUM
 ThatDecoff BELUM
 thegalang HADIR
-titusdirgantoro BELUM
+titusdirgantoro HADIR
 tolhassianipar BELUM
 wahprima HADIR
 WillySand BELUM
