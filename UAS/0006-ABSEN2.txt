@@ -37,7 +37,7 @@ dafpool4 HADIR
 dariantexanditama BELUM
 darklordace HADIR
 drassd HADIR
-eaglescommander BELUM
+eaglescommander HADIR
 egiffari HADIR
 enbeqi BELUM
 fadhilhmr BELUM
